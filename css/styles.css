@@ -198,9 +198,8 @@ img {
 }
 
 .hero-title {
-  margin: 0 auto 40px;
-
-  max-width: 696px;
+  margin: 0 auto 30px;
+  width: 696px;
   height: 120px;
   font-weight: 900;
   font-size: 44px;
@@ -254,17 +253,6 @@ img {
   align-items: center;
   background-color: #f5f4fa;
   border-radius: 4px;
-}
-
-/* .principles-icon {
-  padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} */
-
-.principles-item {
-  width: 270px;
 }
 
 .principles-item:not(:last-child) {
@@ -533,7 +521,7 @@ img {
 .filter-button {
   display: flex;
   justify-content: center;
-  padding-bottom: 34px;
+  margin-bottom: 50px;
 }
 
 .button-list {
